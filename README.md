@@ -85,4 +85,10 @@ You don’t want the function to change the argument.
 
 You want to avoid copying large objects.
 
+Enjoy your C++ coding
+
+Thanks
+
+Bye
+
 SEOptimzeCd: 5yhdsdfghgghgf#y7qq7
